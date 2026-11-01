@@ -1,6 +1,3 @@
-line1
-  line2 `x`
-line3
 # MedChain: Pharmaceutical Supply Chain Tracking on Ethereum
 
 **CSE 540: Engineering Blockchain Applications (Fall 2026 B), Arizona State University**
